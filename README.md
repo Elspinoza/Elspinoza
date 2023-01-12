@@ -10,7 +10,7 @@
 ### Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%237289DA.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/innocent-acolatse-233443255)
-[![Gmail](https://img.shields.io/badge/Yahoo-purple.svg?logo=yahoo&logoColor=white)](mailto:inolatse@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red.svg?logo=gmail&logoColor=white)](mailto:inolatse@gmail.com)
 
 
 #### Languages
