@@ -11,8 +11,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%237289DA.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/innocent-acolatse-233443255)
 [![Gmail](https://img.shields.io/badge/Gmail-red.svg?logo=gmail&logoColor=white)](mailto:inolatse@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green.svg?logo=whatsapp&logoColor=white)](https://wa.me/qr/NWQBWOKIH5UZM1 )
-[![Telegram](https://img.shields.io/badge/Telegram-%23239120.svg?logo=telegram&logoColor=white)](https://t.me/Elspinoza)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%23239120.svg?logo=whatsapp&logoColor=white)](https://wa.me/qr/NWQBWOKIH5UZM1 )
+[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?logo=telegram&logoColor=white)](https://t.me/Elspinoza)
 
 
 #### Languages
