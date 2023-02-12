@@ -48,15 +48,13 @@
 ![Spring Cloud](https://img.shields.io/badge/spring%20cloud-%23239120.svg?style=for-the-badge&logo=springcloudconfig&logoColor=white) ![Consul Discovery Service](https://img.shields.io/badge/consul%20discovery-pink.svg?style=for-the-badge&logo=consul&logoColor=white) ![resilience4j](https://img.shields.io/badge/resilience4j-green.svg?style=for-the-badge&logo=resilience4j&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-orange.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
  
-#### Others
+#### Others languages and tools
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/postman-%23F24E1E.svg?style=for-the-badge&logo=postman&logoColor=white) 
 ![Scrum](https://img.shields.io/badge/scrum-red.svg?style=for-the-badge&logo=scrum&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-orange.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Trello](https://img.shields.io/badge/trello-blue.svg?style=for-the-badge&logo=trello&logoColor=white) 
-
-<h3 align="left">Languages and Tools:</h3>
 
 <table align="center">
   <tr>
