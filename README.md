@@ -4,7 +4,7 @@
 
 ### I am Innocent ACOLATSE, You can call me KamisDev. I am a Full stack Backend developer 
 
-- 🔭 I’m currently working on Machine Learning with Python
+- 🔭 I’m currently working on Microservices with Java on spring cloud
 - 💬 Ask me about Angular, Html, Scss, Spring boot
 - 🤔 I’m looking for help with Python(Machine Learning)
 - ⚡ Fun fact: Basket, Music (Piano 🎹, violon), Game
