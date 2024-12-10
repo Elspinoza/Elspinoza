@@ -2,7 +2,7 @@
 
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
-### I am Innocent ACOLATSE, You can call me KamisDev. I am a Full stack developer 
+### I am Innocent ACOLATSE, You can call me KamisDev. I am a Full stack Backend developer 
 
 - 🔭 I’m currently working on Machine Learning with Python
 - 💬 Ask me about Angular, Html, Scss, Spring boot
