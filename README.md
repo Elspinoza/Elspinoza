@@ -53,7 +53,7 @@
 
 ![Spring Cloud](https://img.shields.io/badge/spring%20cloud-%23239120.svg?style=for-the-badge&logo=springcloudconfig&logoColor=white) 
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-orange.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/apachekafka-orange.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/kafka-orange.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 
  
 #### Others languages and tools
