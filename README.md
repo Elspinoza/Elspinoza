@@ -32,10 +32,9 @@
 #### Frontend
 
 ![React js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
+![Nuxt3](https://img.shields.io/badge/nuxt-%23f1413d.svg?style=for-the-badge&logo=nuxt&logoColor=white&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23f1413d.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=pink) 
-![Ext JS](https://img.shields.io/badge/sencha-ext%20js-blue.svg?style=for-the-badge&logo=sencha&logoColor=white) 
 ![Tailwind css](https://img.shields.io/badge/tailwind%20css-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB)
  
 
