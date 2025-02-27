@@ -48,7 +48,7 @@
 
 ![Mysql](https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodg-green?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%23239120?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Microservices
 
