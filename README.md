@@ -4,8 +4,8 @@
 
 ### I am Innocent ACOLATSE, You can call me KamisDev. I am a Full stack Backend developer 
 
-- 🔭 I’m currently working on Microservices with Java on spring cloud
-- 💬 Ask me about Angular, Html, Scss, Spring boot
+- 🔭 I’m currently working on Laravel projets with PHP
+- 💬 Ask me about Angular, Nuxt, Laravel, Spring boot
 - 🤔 I’m looking for help with Python(Machine Learning)
 - ⚡ Fun fact: Basket, Music (Piano 🎹, violon), Game
 
@@ -201,7 +201,13 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Nuxt_Green_Icon_%282023%29.svg/600px-Nuxt_Green_Icon_%282023%29.svg.png?20230629163107" width="48" height="48" alt="Nuxt" />
       </a>
       <br>Nuxt
-    </td>  
+    </td> 
+   <td align="center" width="96">
+      <a href="#Tailwind CSS">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind CSS
+    </td> 
   </tr>
 
   
