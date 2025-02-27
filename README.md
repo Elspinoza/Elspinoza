@@ -60,7 +60,8 @@
 #### Others languages and tools
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Postman](https://img.shields.io/badge/postman-%23F24E1E.svg?style=for-the-badge&logo=postman&logoColor=white) 
+![Postman](https://img.shields.io/badge/postman-%23F24E1E.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Trello](https://img.shields.io/badge/docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Scrum](https://img.shields.io/badge/scrum-red.svg?style=for-the-badge&logo=scrum&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-orange.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Trello](https://img.shields.io/badge/trello-blue.svg?style=for-the-badge&logo=trello&logoColor=white) 
