@@ -32,7 +32,7 @@
 #### Frontend
 
 ![React js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Nuxt3](https://img.shields.io/badge/nuxt-%23f1413d.svg?style=for-the-badge&logo=nuxt&logoColor=white&logoColor=white)
+![Nuxt3](https://img.shields.io/badge/nuxt-%2320232.svg?style=for-the-badge&logo=nuxt&logoColor=white&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23f1413d.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=pink) 
 ![Tailwind css](https://img.shields.io/badge/tailwind%20css-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB)
@@ -40,11 +40,15 @@
 
 #### Backend
 
-![Spring Boot](https://img.shields.io/badge/springBoot-%23239120.svg?style=for-the-badge&logo=spring-boot&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/springBoot-%23239120.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### Microservices
 
-![Spring Cloud](https://img.shields.io/badge/spring%20cloud-%23239120.svg?style=for-the-badge&logo=springcloudconfig&logoColor=white) ![Consul Discovery Service](https://img.shields.io/badge/consul%20discovery-pink.svg?style=for-the-badge&logo=consul&logoColor=white) ![resilience4j](https://img.shields.io/badge/resilience4j-green.svg?style=for-the-badge&logo=resilience4j&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-orange.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/spring%20cloud-%23239120.svg?style=for-the-badge&logo=springcloudconfig&logoColor=white) 
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-orange.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/kafka-orange.svg?style=for-the-badge&logo=kafka&logoColor=white)
 
  
 #### Others languages and tools
