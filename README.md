@@ -192,19 +192,13 @@
     </td>
    <td align="center" width="96">
       <a href="#Laravel">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/1920px-Logo.min.svg.png?20200603074624" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel
-    </td>
-   <td align="center" width="96">
-      <a href="#Laravel">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/50px-Laravel.svg.png?20190820171151" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
     </td>
     <td align="center" width="96">
       <a href="#Nuxt">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Nuxt_Black_%282023%29.svg/228px-Logo_Nuxt_Black_%282023%29.svg.png?20230109200236" width="48" height="48" alt="Nuxt" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Nuxt_Green_Icon_%282023%29.svg/600px-Nuxt_Green_Icon_%282023%29.svg.png?20230629163107" width="48" height="48" alt="Nuxt" />
       </a>
       <br>Nuxt
     </td>  
