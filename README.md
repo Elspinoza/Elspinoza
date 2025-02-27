@@ -27,12 +27,12 @@
 ![Php](https://img.shields.io/badge/php-blue.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Scilab](https://img.shields.io/badge/scilab--ext%20js?style=for-the-badge&logo=scilab&logoColor=ffdd54) 
-![Mysql](https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=mysql&logoColor=blue)
+
 
 #### Frontend
 
 ![React js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Nuxt3](https://img.shields.io/badge/nuxt-%2320232.svg?style=for-the-badge&logo=nuxt&logoColor=white&logoColor=white)
+![Nuxt3](https://img.shields.io/badge/nuxt-%23239120.svg?style=for-the-badge&logo=nuxt&logoColor=white&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23f1413d.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=pink) 
 ![Tailwind css](https://img.shields.io/badge/tailwind%20css-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB)
@@ -43,6 +43,11 @@
 ![Spring Boot](https://img.shields.io/badge/springBoot-%23239120.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### Databases
+
+![Mysql](https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=mysql&logoColor=blue)
+![PostgreSQL](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=blue)
 
 #### Microservices
 
